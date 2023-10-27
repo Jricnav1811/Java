@@ -1,6 +1,6 @@
 package UT4.Ejercicios.EjerciciosAdicionales;
 import java.util.Scanner;
-public class Ejercicio3_2 {
+public class EjercicioPalcoGallinero {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Introduce el precio de la entrada: ");
