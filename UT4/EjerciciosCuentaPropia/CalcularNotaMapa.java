@@ -1,4 +1,4 @@
-package UT4.Ejercicios;
+package UT4.EjerciciosCuentaPropia;
 import java.util.Scanner;
 public class CalcularNotaMapa {
   public static void main(String[] args) {

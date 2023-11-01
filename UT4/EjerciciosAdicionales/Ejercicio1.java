@@ -1,4 +1,4 @@
-package UT4.Ejercicios.EjerciciosAdicionales;
+package UT4.EjerciciosAdicionales;
 import java.util.Scanner;
 public class Ejercicio1 {
   public static void main(String[] args) {
