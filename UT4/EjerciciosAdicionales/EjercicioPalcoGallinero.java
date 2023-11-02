@@ -20,8 +20,10 @@ public class EjercicioPalcoGallinero {
       System.out.println("Su precio es: " + (precioEntrada - palco));
     } else if ((primeraEleccion == 2) && (segundaEleccion == 1)) {
       System.out.println("Su precio es: " + (precioEntrada - gallinero));
+
     } else if ((primeraEleccion == 1) && (segundaEleccion == 2) || (primeraEleccion == 2) && (segundaEleccion == 2)) {
       System.out.println("Su precio es: " + precioEntrada);
+      
     } else if ((primeraEleccion == 1) && (segundaEleccion == 3)) {
       System.out.println("Su precio es: " + (precioEntrada + palco));
     } else if ((primeraEleccion == 2) && (segundaEleccion == 3)) {
